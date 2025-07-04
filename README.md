@@ -1,19 +1,3 @@
-# Efficiently Adapting SAM 2 for Hand-Drawn Circuit Diagram Segmentation in a Low-Data Regime
-### **Instructions**
-
-1.  **Create an `assets` folder** in your repository's root directory. Place a key figure from your paper (like the qualitative results figure) inside it. I've named it `qualitative_results.png` in the template below.
-2.  **Create a `requirements.txt` file.** This is crucial for reproducibility. In your activated Python environment where you have all the necessary packages installed, run this command in your terminal and commit the resulting file:
-    ```bash
-    pip freeze > requirements.txt
-    ```
-3.  **Copy the text below** and paste it into your `README.md` file.
-4.  **Replace the placeholder links** (like the arXiv link) once you have them.
-
----
-
-### **README.md Content (Copy and Paste This)**
-
-```markdown
 # Efficiently Adapting SAM 2 for Hand-Drawn Circuit Diagram Segmentation
 
 [![arXiv](https://img.shields.io/badge/arXiv-24XX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/24XX.XXXXX) <!-- ### TODO: Replace with your arXiv ID and link -->
@@ -121,4 +105,3 @@ If you find this work useful for your research, please consider citing our paper
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/licenses/MIT) file for details.
-```
