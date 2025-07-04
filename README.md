@@ -93,7 +93,7 @@ If you find this work useful for your research, please consider citing our paper
       title={Efficiently Adapting SAM 2 for Hand-Drawn Circuit Diagram Segmentation in a Low-Data Regime}, 
       author={Mahmoud Sameh and Adel Abdennour and Jawad K. Ali},
       year={2025},
-      eprint={24XX.XXXXX},      -- ### TODO: Replace with your arXiv ID
+      eprint={24XX.XXXXX},     
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
