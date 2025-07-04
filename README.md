@@ -103,4 +103,4 @@ If you find this work useful for your research, please consider citing our paper
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/licenses/MIT) file for details.
+This project is licensed under the Apache 2.0 License. See the [LICENSE](https://github.com/mah-sam/sam2-circuit-segmentation/blob/main/LICENSE) file for details.
