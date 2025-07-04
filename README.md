@@ -73,7 +73,7 @@ python download_models.py
 ### 2. Prepare the Dataset
 This work uses a subset of the **Circuit Graph Hand-Drawn dataset (CGHD-1152)**.
 - Download the dataset from the [official source]([https://github.com/thoma/CGHD](https://www.kaggle.com/datasets/johannesbayer/cghd1152)).
-- It's better to use Kaggle since it was trained on it, and the data is stored on Kaggle too
+- It's better to use Kaggle since it was trained on it, and the data is already stored there.
 
 ### 3. Run the Notebooks
 The `notebooks/` directory contains Jupyter notebooks to replicate our findings.
