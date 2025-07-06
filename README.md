@@ -89,13 +89,12 @@ The `notebooks/` directory contains Jupyter notebooks to replicate our findings.
 If you find this work useful for your research, please consider citing our paper:
 
 ```bibtex
-@misc{sameh2025efficiently,
-      title={Efficiently Adapting SAM 2 for Hand-Drawn Circuit Diagram Segmentation in a Low-Data Regime}, 
-      author={Mahmoud Sameh and Adel Abdennour and Jawad K. Ali},
-      year={2025},
-      eprint={24XX.XXXXX},     
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@misc{sameh2024sam2circuit,
+      author = {Mahmoud Sameh and Adel Abdennour and Jawad K. Ali},
+      title  = {{sam2-circuit-segmentation}: Adapting SAM 2 for Hand-Drawn Circuit Diagram Segmentation},
+      year   = {2025},
+      publisher = {GitHub},
+      howpublished = {\url{https://github.com/mah-sam/sam2-circuit-segmentation}}
 }
 ```
 
