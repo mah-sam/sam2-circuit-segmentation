@@ -1,6 +1,5 @@
 # Efficiently Adapting SAM 2 for Hand-Drawn Circuit Diagram Segmentation
 
-[![arXiv](https://img.shields.io/badge/arXiv-24XX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/24XX.XXXXX) <!-- ### TODO: Replace with your arXiv ID and link -->
 [![GitHub license](https://img.shields.io/github/license/mah-sam/sam2-circuit-segmentation.svg)](https://github.com/mah-sam/sam2-circuit-segmentation/blob/main/LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-390/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
